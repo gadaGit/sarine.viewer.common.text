@@ -208,5 +208,6 @@
   "slide.externalImage.title" : "AGS Report",
   "slide.externalImage.body" : "AGSL Computer generated light performance map for this diamond.<br>U.S Patent No: 7.355.683",
   "slide.externalImage.footer" : "ASET Image &copy; 2016 American Gem Society and AGSL has provided this ASET image solely for use by Helzberg Diamonds as part of their Masterpiece Program and is not affiliated with Sarine in any way.",
-  "navigation.externalImage.title" : "AGS ASET"
+  "navigation.externalImage.title" : "AGS ASET",
+  "hello.world" :"test eran"
 }
